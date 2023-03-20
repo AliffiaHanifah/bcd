@@ -254,6 +254,10 @@ section.hl{
     padding-left: 10px;
 }
 
+.rowgap {
+    row-gap: 35px !important;
+}
+
 @media only screen and (max-width: 600px) {
     .judulhl1 {
       padding-right: 40px;
@@ -1123,6 +1127,9 @@ section.decskependudukan {
 /* :::::::::::::: END SECTION DESKRIPSI KEPENDUDUKAN ::::::::::::::*/
 
 /* :::::::::::::: START SECTION VISUALISASI PETA KEPENDUDUKAN ::::::::::::::*/
+.cardgap {
+    margin-bottom: 30px !important;
+}
 .decsvsp{
     color: #000000;
     font-size: 20px;
