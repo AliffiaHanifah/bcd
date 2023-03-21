@@ -850,7 +850,12 @@ section.pfpsekolah {
 }
 
 .fotosekolah {
-    margin-bottom: 30px;
+    margin-bottom: 0px;
+}
+
+.card img.ftschool{
+    max-width: 100% !important;
+    max-height: 100% !important;
 }
 
 .descdashpfp {
@@ -873,10 +878,10 @@ section.pfpsekolah {
     color: #000000;
     font-weight: 500;
 }
-.cardpfp {
+/* .cardpfp {
     max-height: 400px;
     overflow-y: auto;
-}
+} */
 /* :::::::::::::: END SECTION PROFIL SEKOLAH ::::::::::::::*/
 /* ....!:::::::::: END HALAMAN PROFIL SEKOLAH::::::::::!....*/
 
