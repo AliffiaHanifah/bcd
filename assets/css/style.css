@@ -292,6 +292,15 @@ section.visual{
     }
 }
 
+@media only screen and (max-width: 1366px) {
+    .card-h {
+      width: 340px !important;
+    }
+    .card-m {
+        margin-left: -50px !important;
+    }
+}
+
 .card-judul{
     margin: -20px -20px;
 }
@@ -603,6 +612,12 @@ section.decsdashboard{
     }
 }
 
+@media only screen and (max-width: 1366px) {
+    .filterdt {
+      margin-left: 155px !important;
+    }
+}
+
 .filterdt2 .btn{
     font-size: 16px;
     font-weight: 550;
@@ -808,6 +823,12 @@ section.decsTP {
     }
 }
 
+@media only screen and (max-width: 1366px) {
+    .filterdtp {
+      margin-left: 105px !important;
+    }
+}
+
 .filterdtp2 .btn{
     font-size: 16px;
     font-weight: 550;
@@ -923,16 +944,16 @@ section.decsTP{
 
 @media only screen and (max-width: 600px) {
     .filterTP .btn{
-        padding-left: 45.5% !important;
+        padding-left: 40% !important;
     }
     .filterTP {
         margin-left: -220px !important;   
     }
 }
 
-@media only screen and (max-width: 1280px) {
+@media only screen and (max-width: 1366px) {
     .filterTP .btn{
-        padding-left: 45.5% !important;
+        padding-left: 40% !important;
     }
     .filterTP {
         margin-left: -20px !important;   
@@ -1078,6 +1099,12 @@ section.decsUN{
     }
     .filterdUN3 {
         margin-left: -199px !important;   
+    }
+}
+
+@media only screen and (max-width: 1366px) {
+    .filterdUN1 {
+      margin-left: 48% !important;
     }
 }
 
@@ -1285,6 +1312,21 @@ section.decskependudukan {
     }
     .warnavsp4{
         margin-left: 55px !important;
+    }
+}
+
+@media only screen and (max-width: 1366px) {
+    .warnavsp1{
+      margin-left: 85px !important;
+    }
+    .warnavsp2{
+        margin-left: 85px !important;
+    }
+    .warnavsp3{
+        margin-left: 85px !important;
+    }
+    .warnavsp4{
+        margin-left: 85px !important;
     }
 }
 /* :::::::::::::: END SECTION VISUALISASI PETA KEPENDUDUKAN ::::::::::::::*/
