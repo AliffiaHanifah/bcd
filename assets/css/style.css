@@ -292,12 +292,9 @@ section.visual{
     }
 }
 
-@media only screen and (max-width: 1366px) {
+@media only screen and (min-width: 1920px) {
     .card-h {
       width: 340px !important;
-    }
-    .card-m {
-        margin-left: -50px !important;
     }
 }
 
@@ -612,7 +609,7 @@ section.decsdashboard{
     }
 }
 
-@media only screen and (max-width: 1366px) {
+@media only screen and (min-width: 1920px) {
     .filterdt {
       margin-left: 155px !important;
     }
@@ -823,7 +820,7 @@ section.decsTP {
     }
 }
 
-@media only screen and (max-width: 1366px) {
+@media only screen and (min-width: 1920px) {
     .filterdtp {
       margin-left: 105px !important;
     }
@@ -951,7 +948,7 @@ section.decsTP{
     }
 }
 
-@media only screen and (max-width: 1366px) {
+@media only screen and (min-width: 1920px) {
     .filterTP .btn{
         padding-left: 40% !important;
     }
@@ -1102,7 +1099,7 @@ section.decsUN{
     }
 }
 
-@media only screen and (max-width: 1366px) {
+@media only screen and (min-width: 1920px) {
     .filterdUN1 {
       margin-left: 48% !important;
     }
@@ -1315,7 +1312,7 @@ section.decskependudukan {
     }
 }
 
-@media only screen and (max-width: 1366px) {
+@media only screen and (min-width: 1970px) {
     .warnavsp1{
       margin-left: 85px !important;
     }
